@@ -1,3 +1,4 @@
-**/.vs/**
-**/bin/**
-**/obj/**
+.vs/
+AplikasiPerpustakaanMichael/bin/
+AplikasiPerpustakaanMichael/obj/Debug
+AplikasiPerpustakaanMichael/obj/Release
